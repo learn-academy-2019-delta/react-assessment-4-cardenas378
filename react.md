@@ -7,11 +7,11 @@ Answer the following questions. First, without external resources. Challenge you
 
 - React is a modern, efficient answer to complex UI applications
 - React will only render on the server using Node.js
-- React is a full stack framework for modern web applications
-- React is a flexible library that plays the role of V in an MVC framework
+- React is a full stack framework for modern web applications(FALSE)
+- React is a flexible library that plays the role of V in an MVC framework (TRUE)
 - You should always update a component's state directly using this.state
 - React is made up of encapsulated components that manage their own state
-- React components render HTML
+- React components render HTML(TRUE)
 
 1b. Add an interesting true fact about React to the list.
 
