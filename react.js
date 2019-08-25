@@ -5,20 +5,28 @@
 
 // 1. Write a React component that prints "I am a component!" Be sure to include all necessary imports, exports, etc...
 
-import React. {component} from 'react'
-export default class Something extends Component {
-  constructor (props) {
-    super(props)
-    this.state
-  }
-}
+// import React, {component} from 'react'
+// export default class Something extends Component {
+//   constructor (props) {
+//     super(props)
+//     this.state = {}
+//   }
+// }
+
+//   render () {
+//     return (
+//       <div> 
+//         <p> I am a component!!</p>
+//       </div>
+//     )
+//   }
 
 
 
-
+ 
 // 2. Refactor this vanilla javascript loop to a map function. The output should remain the same. 
 
-var names = ["Ford Prefect", "Arthur Dent", "Trillian", "Zaphod", "Vogon", "Marvin, the Paranoid Android"]
+// var names = ["Ford Prefect", "Arthur Dent", "Trillian", "Zaphod", "Vogon", "Marvin, the Paranoid Android"]
 
 // for(let i=0; i<names.length; i++){
 //   console.log(`${names[i]} is ${names[i].length} characters long.`)
@@ -42,13 +50,17 @@ var names = ["Ford Prefect", "Arthur Dent", "Trillian", "Zaphod", "Vogon", "Marv
 // let{name, home, dislikes} = this.state
 
 
+
 // 4. Write a React method that would add one to the count and update the state.
 
-this.state = {
-  count: 0
-}
+// this.state = {
+//   count: 0
+// }
 
-
+// addOne = () => {
+//   let {count} = this.state 
+//   this.setState({count: count+1})
+// }
 
 // 5. There are three mistakes in this code that would cause it to break our application. Find the mistakes and fix them:
 
